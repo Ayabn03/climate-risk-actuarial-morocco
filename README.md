@@ -6,9 +6,9 @@ This repository contains the Python code and data processing scripts used in my 
 Traditional actuarial models rely heavily on the stationarity assumption of historical loss distributions, making them inadequate for capturing non-stationary climate risks. This project proposes a data-driven framework combining:
 - **Climate Reanalysis Data (ERA5 / Copernicus)** to extract climate indices (SPI-12, TXx, R95p, FFDI).
 - **Sectoral Insurance Statistics (ACAPS)** covering non-life loss ratios ($S/P$) from 2016 to 2023.
-- **Disaster Database (EM-DAT)** to quantify the Moroccan climate protection gap[cite: 2].
-- **Machine Learning & GLM Models** (Linear Regression, Random Forest, XGBoost) to model non-life loss ratios[cite: 2].
-- **NGFS Climate Scenarios** for long-term stress testing up to 2100[cite: 2].
+- **Disaster Database (EM-DAT)** to quantify the Moroccan climate protection gap.
+- **Machine Learning & GLM Models** (Linear Regression, Random Forest, XGBoost) to model non-life loss ratios.
+- **NGFS Climate Scenarios** for long-term stress testing up to 2100.
 
 ---
 
